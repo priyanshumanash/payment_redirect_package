@@ -1,0 +1,16 @@
+name: payment_redirect_package
+description: A package that provides a button for redirecting to a payment screen.
+version: 0.0.1
+homepage: https://github.com/yourusername/payment_redirect_package
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=2.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
